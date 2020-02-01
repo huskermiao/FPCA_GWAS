@@ -1,3 +1,7 @@
+## install the dependent libraries
+#install.packages('fda')
+#install.packages('magic')
+
 library(fda)
 library(magic)
 
